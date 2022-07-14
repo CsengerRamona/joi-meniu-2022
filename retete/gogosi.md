@@ -1,5 +1,5 @@
 Gogosi
 
-faina
-drojdie
-zahar
+- faina
+- drojdie
+- zahar
